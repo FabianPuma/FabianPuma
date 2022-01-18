@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FabianPuma
+- 👋 Hi, I’m Fabian Puma
 - 👀 I’m interested in world programming and technology
 - 🌱 I’m currently learning language Python 
 - 💞️ I’m looking to collaborate on in programming exercises. Projects
